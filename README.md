@@ -1,10 +1,7 @@
-# Meals-Menu
+# Dates Management System
 
-## HomePage
-![HomePage](./src/preview_pic/All-mails.png)
+## HomePage Without Dates
+![HomePage](./src/preview_pic/homePage-without-Dates.png)
 
-## All Mails
-<details>
-  <summary>Click to view mails with filteration</summary>
-  <img src="./src/preview_pic/Mails-with-filteration.png" alt="All Products Page" width="600"/>
-</details>
+## HomePage With Dates
+![HomePage](./src/preview_pic/homePage-with-Dates.png)
